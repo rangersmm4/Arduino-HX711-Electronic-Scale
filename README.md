@@ -29,7 +29,8 @@
 
   
 >>實體展示  
->>![image](https://github.com/rangersmm4/Arduino-HX711-Electronic-Scale/blob/main/image/Picture3.jpg)  
+>>![image](https://github.com/rangersmm4/Arduino-HX711-Electronic-Scale/blob/main/image/Picture3.jpg)
+>>![image](https://github.com/rangersmm4/Arduino-HX711-Electronic-Scale/blob/main/image/%E6%93%B7%E5%8F%96.JPG)
   
 >>函式庫  
 >>![image](https://github.com/rangersmm4/Arduino-HX711-Electronic-Scale/blob/main/image/Picture6.png)  
