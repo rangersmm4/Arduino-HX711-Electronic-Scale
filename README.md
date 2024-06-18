@@ -1,4 +1,4 @@
-![image](https://github.com/rangersmm4/Arduino-HX711-Electronic-Scale/assets/169122034/d0c76963-ee91-4eaf-ad29-545cb171bd5a)# Arduino-HX711-Electronic-Scale
+# Arduino-HX711-Electronic-Scale
 >>使用器材:  
 HX711壓力感測模組  
 重量感測條(Load Cell)  
