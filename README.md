@@ -19,7 +19,7 @@
 
   
 >>接法:  
->>![image](https://github.com/rangersmm4/Arduino-HX711-Electronic-Scale/blob/main/image/Picture2.png)  
+>>![image]([https://github.com/rangersmm4/Arduino-HX711-Electronic-Scale/blob/main/image/Picture2.png](https://github.com/rangersmm4/Arduino-HX711-Electronic-Scale/blob/main/image/Picture7.png))  
 >>重量感測條-->HX711-->ARDUINO  
 >>HX711     ARDUINO  
 >>GND-------->GND  
