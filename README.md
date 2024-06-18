@@ -9,6 +9,7 @@ Arduino Uno開發板
 杜邦線
 
 >>電路接線
+>>![image](https://github.com/rangersmm4/Arduino-HX711-Electronic-Scale/blob/main/image/Picture1.png)
 重量感測條    HX711      
 紅------------>E+               
 黑------------>E-                
