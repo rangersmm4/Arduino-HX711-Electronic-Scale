@@ -9,8 +9,8 @@
 >>杜邦線
 
   
->>電路接線
->>![image](https://github.com/rangersmm4/Arduino-HX711-Electronic-Scale/blob/main/image/Picture1.png)
+>>電路接線  
+>>![image](https://github.com/rangersmm4/Arduino-HX711-Electronic-Scale/blob/main/image/Picture1.png)  
 >>重量感測條----HX711      
 >>紅------------>E+               
 >>黑------------>E-                
@@ -19,7 +19,7 @@
 
   
 >>接法:  
->>![image](https://github.com/rangersmm4/Arduino-HX711-Electronic-Scale/blob/main/image/Picture2.png)
+>>![image](https://github.com/rangersmm4/Arduino-HX711-Electronic-Scale/blob/main/image/Picture2.png)  
 >>重量感測條-->HX711-->ARDUINO  
 >>HX711     ARDUINO  
 >>GND-------->GND  
@@ -29,7 +29,7 @@
 
   
 >>實體展示  
->>![image](https://github.com/rangersmm4/Arduino-HX711-Electronic-Scale/blob/main/image/Picture3.jpg)
+>>![image](https://github.com/rangersmm4/Arduino-HX711-Electronic-Scale/blob/main/image/Picture3.jpg)  
   
 >>函式庫  
->>![image](https://github.com/rangersmm4/Arduino-HX711-Electronic-Scale/blob/main/image/Picture6.png)
+>>![image](https://github.com/rangersmm4/Arduino-HX711-Electronic-Scale/blob/main/image/Picture6.png)  
